@@ -24,17 +24,16 @@ What those tools do:
 <a href="https://kittinhulk.github.io/zerg-initiative-playbook/"><img src="images/zerg.png" width="49%" alt="Zerg Initiative Playbook — Thai StarCraft II decision guide"></a>
 <a href="https://kittinhulk.github.io/northgard-tool/"><img src="images/northgard.png" width="49%" alt="Northgard Tool — house and food calculator"></a>
 
-| Project | What it is |
-|---|---|
-| [Zerg Initiative Playbook](https://kittinhulk.github.io/zerg-initiative-playbook/) | Interactive StarCraft II guide in Thai: scouting, timings and how to respond |
-| [Northgard Tool](https://kittinhulk.github.io/northgard-tool/) | Calculator for houses and food in the game Northgard |
-| [quant-dashboard](https://github.com/kittinhulk/quant-dashboard) | Streamlit dashboards for currency forecasting (Python) |
+**[Zerg Initiative Playbook](https://kittinhulk.github.io/zerg-initiative-playbook/)** — StarCraft II decision guide in Thai &nbsp;·&nbsp; **[Northgard Tool](https://kittinhulk.github.io/northgard-tool/)** — house and food calculator
+
+Also: [quant-dashboard](https://github.com/kittinhulk/quant-dashboard) — Streamlit dashboards for currency forecasting (Python)
 
 ---
 
 ### Tools I use
 
-Python · JavaScript · HTML/CSS · n8n · Power Automate · Power BI · LINE Messaging API · Raspberry Pi · MetaTrader 5 (MQL5) · Claude Code
+**Code** &nbsp; Python · JavaScript · HTML/CSS · MQL5 · Claude Code<br>
+**Automation** &nbsp; n8n · Power Automate · Power BI · LINE Messaging API · Raspberry Pi
 
 ---
 
