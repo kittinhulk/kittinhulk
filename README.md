@@ -37,4 +37,4 @@ Python · JavaScript · HTML/CSS · n8n · Power Automate · Power BI · LINE Me
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kittin-k-8529ab112/) · Thai or English
+[LinkedIn](https://www.linkedin.com/in/kittin-k-8529ab112/) · [YouTube — Grit Craft](https://www.youtube.com/@GritCraftStudio) (Thai tech videos) · Thai or English
