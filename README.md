@@ -1,4 +1,4 @@
-## Hi, I'm Kittin (Grit)
+## Hi, I'm Kittin · Grit Craft
 
 I build tools that take repetitive work off a logistics team in Thailand.
 I start from the problem — what people do by hand every day — then build the smallest tool that removes it, with AI coding agents doing most of the typing and automated tests checking their work.
@@ -7,7 +7,7 @@ I start from the problem — what people do by hand every day — then build the
 
 ---
 
-### 2,801 contributions in the past year
+### 2,800+ contributions in the past year
 
 Most of my work lives in private repositories because it runs on real company and customer data.
 What those tools do:
@@ -20,6 +20,9 @@ What those tools do:
 ---
 
 ### Public projects
+
+<a href="https://kittinhulk.github.io/zerg-initiative-playbook/"><img src="images/zerg.png" width="49%" alt="Zerg Initiative Playbook — Thai StarCraft II decision guide"></a>
+<a href="https://kittinhulk.github.io/northgard-tool/"><img src="images/northgard.png" width="49%" alt="Northgard Tool — house and food calculator"></a>
 
 | Project | What it is |
 |---|---|
