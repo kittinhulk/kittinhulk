@@ -32,12 +32,12 @@ Also: [quant-dashboard](https://github.com/kittinhulk/quant-dashboard) — Strea
 
 ### Latest videos — [Grit Craft](https://www.youtube.com/@GritCraftStudio)
 
-<!-- BLOG-POST-LIST:START -->- [EA Development Case Study | บันทึกการพัฒนาระบบเทรด XAUUSD](https://www.youtube.com/watch?v=YHZJFilpGBs) · May 2026 
-- [อัปเดต n8n ไม่ต้องกลัวข้อมูลหาย! สอนใช้ Docker Compose จัดการ Config และข้อมูลอย่างปลอดภัย](https://www.youtube.com/watch?v=2aghqmJ-72Q) · May 2025 
-- [Use case Runway gen3 : Forest magic](https://www.youtube.com/watch?v=17gdwdi_60o) · Oct 2024 
-- [สร้างวิดีโอ fashion จาก ตัวนายแบบ &lpar;MJ+Runway gen3&rpar;](https://www.youtube.com/watch?v=GmSd7BPcnmE) · Sep 2024 
-- [Comfyui mimicmotionliveportrait Use case  by Grit Ai Art](https://www.youtube.com/shorts/3hqRgtAW9xU) · Jul 2024 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [EA Development Case Study | บันทึกการพัฒนาระบบเทรด XAUUSD](https://www.youtube.com/watch?v=YHZJFilpGBs) · May 2026
+- [อัปเดต n8n ไม่ต้องกลัวข้อมูลหาย! สอนใช้ Docker Compose จัดการ Config และข้อมูลอย่างปลอดภัย](https://www.youtube.com/watch?v=2aghqmJ-72Q) · May 2025
+- [Use case Runway gen3 : Forest magic](https://www.youtube.com/watch?v=17gdwdi_60o) · Oct 2024
+- [สร้างวิดีโอ fashion จาก ตัวนายแบบ &lpar;MJ+Runway gen3&rpar;](https://www.youtube.com/watch?v=GmSd7BPcnmE) · Sep 2024
+- [Comfyui mimicmotionliveportrait Use case  by Grit Ai Art](https://www.youtube.com/shorts/3hqRgtAW9xU) · Jul 2024<!-- BLOG-POST-LIST:END -->
 
 ---
 
